@@ -1,8 +1,8 @@
 ### Heya! 🙃
 
-- 🏠 Freelance front-end engineer from Berlin
-- 🔭 I’m currently working on the [Atlas design system](https://atlas.adjust.com)
-- 📫 You can write me at contact@jonas-hartweg.de
+- 👨🏼‍💻 Freelance front-end engineer from Berlin
+- 💅🏻 UI/UX enthusiast
+- 📫 Contact me at contact@jonas-hartweg.de
 
 <!--
 **johnny353535/johnny353535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
